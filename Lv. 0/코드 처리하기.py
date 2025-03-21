@@ -20,5 +20,6 @@ def solution(code):
 
     return answer
 
+
 print(solution("abc1abc1abc")) #acbac
 print(solution(""))

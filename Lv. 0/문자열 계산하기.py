@@ -7,7 +7,6 @@ def solution(my_string):
             answer += int(n_list[i+1])
         elif n_list[i] == '-':
             answer -= int(n_list[i+1])
-
     return answer
 
 print(solution("3 + 4 - 5"))
