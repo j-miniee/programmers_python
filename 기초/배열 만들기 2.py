@@ -1,8 +1,6 @@
 def solution(l, r):
     result = []
 
-    
-
     return result
 
 
